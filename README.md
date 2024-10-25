@@ -1,4 +1,4 @@
-# Smart_Falcon 🦅
+# Smart_Falcon 
 
 A robust blockchain-based asset management solution powered by Hyperledger Fabric, designed for financial institutions requiring secure, transparent, and immutable asset tracking.
 
